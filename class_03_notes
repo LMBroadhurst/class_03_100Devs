@@ -1,0 +1,38 @@
+HTML Structure
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+    Stuff the browser needs
+    </head>
+    <body>
+    Everything the user sees
+    <h1>Hello, World!</h1>
+    </body>
+</html>
+
+Everything within the HTML tag is called the root tag
+- Everything within that are its children
+- Parent-Child relationship
+
+Head contains thing the browser needs but that we cannot see or interact with.
+Body contains everything that can be seen or interacted with.
+
+
+New Tags
+
+Navigation
+
+<nav></nav>
+Helps the user move around the website
+Think navigation bar at the top of websites
+
+
+How do we get data from users?
+
+<form></form>
+The inputs we have, e.g. checkboxes are wrapped by forms
+
+Input types: Text, Password, Tel, Email, Button, (see MDN for more)
+
